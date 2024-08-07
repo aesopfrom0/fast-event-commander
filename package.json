@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "node build-manifest.js && webpack"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
